@@ -14,4 +14,4 @@ my_art = ascii_magic.from_image_file(
     width_ratio=2,
     mode=ascii_magic.Modes.HTML
 )
-ascii_magic.to_html_file('roshan.html', my_art)
+ascii_magic.to_html_file('ascii_art.html', my_art)
