@@ -9,7 +9,7 @@ import ascii_magic
 # ascii_magic.to_terminal(output)
 
 my_art = ascii_magic.from_image_file(
-    'roshan.jpg',
+    'ascii_art.jpg',
     columns=200,
     width_ratio=2,
     mode=ascii_magic.Modes.HTML
